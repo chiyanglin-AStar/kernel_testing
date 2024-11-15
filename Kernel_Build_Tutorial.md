@@ -44,7 +44,7 @@ cp -v /boot/config-$(uname -r) .config   // this have issue
 
 sudo apt-get install build-essential libncurses-dev bison flex libssl-dev libelf-dev
 
-sudo apt-get install gcc-arm-linux-gnueabi u-boot-tools lzop 
+sudo apt-get install gcc-arm-linux-gnueabi u-boot-tools lzop bc rsync
 
 ## x86_64 architecture kernel build example 
 
