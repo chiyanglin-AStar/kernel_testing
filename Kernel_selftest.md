@@ -12,6 +12,9 @@ cd /usr/src/linux-headers-6.11.0-9-generic/
 
 sudo apt-get install gcc-multilib libc6-i386 libc6-dev-i386
 
+make -C tools/testing/selftests
+
+make -C tools/testing/selftests gen_tar FORMAT=.xz
 
 ### Kernel 5.5.16 note :
 
