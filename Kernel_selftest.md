@@ -2,6 +2,8 @@
 
 ref: [Linux Kernel Selftests](https://docs.kernel.org/dev-tools/kselftest.html)
 
+[kernel sources](https://cdn.kernel.org/pub/linux/kernel)
+
 sudo apt-get install linux-headers-$(uname -r)
 
 sudo apt-get install linux-headers-6.11.0-9-generic

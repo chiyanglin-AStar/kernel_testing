@@ -4,6 +4,8 @@ ref : https://shenki.github.io/Booting-an-OpenBMC-kernel/
 
 Linux kernel formal site :  https://www.kernel.org/ 
 
+[kernel sources](https://cdn.kernel.org/pub/linux/kernel)
+
 ##  Get specific kernel version example 
 wget https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.16.9.tar.xz  
 
